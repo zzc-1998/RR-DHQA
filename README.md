@@ -9,7 +9,7 @@ We also provide all the extracted features in the `features` folder for both ref
 
 You can use the `performance.py` to quickly reproduce the experimental results in the paper.
 
-
+The database can be accessed from [SJTU-H3D](https://github.com/zzc-1998/SJTU-H3D) and [DHHQA](https://github.com/zzc-1998/DHHQA).
 # Citation
 If you find our paper useful, please cite our paper as:
 ```@inproceedings{zhang2024reduced,
